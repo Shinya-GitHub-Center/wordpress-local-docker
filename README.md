@@ -1,4 +1,4 @@
-# [Wiki Site : Step by Step Lecture derived from this repos](https://github.com/Shinya-GitHub-Center/wordpress-local-docker/wiki)
+# [Wiki Site : Step by Step Lecture as for WP data migration between local docker and cloud servers](https://github.com/Shinya-GitHub-Center/wordpress-local-docker/wiki)
 
 ## First WordPress for you!
 No time and no motivation to search for any WordPress servers, but want to play with WordPress just for basic things instantly.  
