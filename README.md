@@ -1,6 +1,9 @@
-# First WordPress for you!
+# [Wiki Site : Step by Step Lecture derived from this repos](https://github.com/Shinya-GitHub-Center/wordpress-local-docker/wiki)
+
+## First WordPress for you!
 No time and no motivation to search for any WordPress servers, but want to play with WordPress just for basic things instantly.  
 Then, this is the right place to start with.
+- If you want to try to build multiple WordPress environment at the same time, please consider to use my another [repos](https://github.com/Shinya-GitHub-Center/wordpress-simulocal-docker)!
 
 ## Preparation
 * Ubuntu User : docker installation beforehand
